@@ -1,1 +1,2 @@
-# bioinformatics-cohort-1
+# Open Bootcamp Collective
+## Bioinformatics Cohort #1
