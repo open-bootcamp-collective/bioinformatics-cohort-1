@@ -46,6 +46,10 @@ python analyze_sequences.py > results.txt
 
 - Stage and commit your changes using `git add` and `git commit`
 - Push your updates to the GitHub repository
+- Your repository should contain the following files:
+  - `run.sh` file containing the terminal commands used for setup
+  - `analyze_sequences.py` python script
+  - `results.txt` text file containing script output
 
 ## Presentation Instructions
 
