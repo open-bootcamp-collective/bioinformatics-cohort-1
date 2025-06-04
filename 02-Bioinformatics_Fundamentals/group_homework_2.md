@@ -20,6 +20,8 @@ Using the provided `eukaryotes.tsv` dataset
     - Creates a new DataFrame `small_genomes` where `Size (Mb)< 5000`
     - Plots `Number of genes` vs. `Size (Mb)` using Seaborn or matplotlib
     - Save your plot as `genome_plot.png`
+ 
+- For some reference material for pandas and seaborn, please see the provided `bootcamp.py` and `mutation_case_study.py`, referenced in the lecture slides.
 
 ### 2. Open Reading Frames Finder with Biopython 
 
