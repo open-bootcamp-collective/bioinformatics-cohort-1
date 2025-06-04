@@ -18,6 +18,10 @@
 ### Session 2 - Bioinformatics Fundamentals
 [Slides](https://docs.google.com/presentation/d/1S-LbQqvX12VoEGpg7TyQ-_xE0FkTmdwYmWJpGCURK8M/edit?usp=sharing)
 
+[Session Recording](https://fathom.video/share/R_N9ETxH9MxkEwPe1t5gctjqUx_xKQbT)
+
+[Office Hours Recording](https://fathom.video/share/6WzdR2hdXKPygv3NgmAKfH59vRxREJV7)
+
 [Homework](02-Bioinformatics_Fundamentals/group_homework_2.md)
 
 [Eukaryotic Genome Question File](02-Bioinformatics_Fundamentals/eukaryotes.tsv)
