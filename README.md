@@ -19,3 +19,7 @@
 [Slides](https://docs.google.com/presentation/d/1S-LbQqvX12VoEGpg7TyQ-_xE0FkTmdwYmWJpGCURK8M/edit?usp=sharing)
 
 [Homework](02-Bioinformatics_Fundamentals/group_homework_2.md)
+
+[Eukaryotic Genome Question File](02-Bioinformatics_Fundamentals/eukaryotes.tsv)
+
+[Open Reading Frames Question File](02-Bioinformatics_Fundamentals/test_dna_orf.txt)
