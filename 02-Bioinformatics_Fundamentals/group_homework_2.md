@@ -13,12 +13,12 @@ Each group will work collaboratively to complete the tasks below and present the
 Using the provided `eukaryotes.tsv` dataset 
 
 - Create a script analyze_eukaryotes.py that:
-    - Reads the file using pandas `(pd.read_csv(“eukaryotes.tsv” sep=”\t”))`
+    - Reads the file using pandas `(pd.read_csv(“eukaryotes.tsv”, sep=”\t”))`
     - Calculates descriptive statistics (`count`, `mean`, `std`, `min`, `quartiles`) for Size(Mb) column
-    - Filters all rows where `sps == “Homo sapiens”` into a new DataFrame `humans`
-    - Computes the correlation between Size(Mb) and Number of genes using the `dataframe.corr()` method
-    - Creates a new DataFrame `small_genomes` where `Size(Mb)< 5000`
-    - Plots `Number of genes` vs. `Size(Mb)` using Seaborn or matplotlib
+    - Filters all rows where `Species == “Homo sapiens”` into a new DataFrame `humans`
+    - Computes the correlation between Size (Mb) and Number of genes using the `dataframe.corr()` method
+    - Creates a new DataFrame `small_genomes` where `Size (Mb)< 5000`
+    - Plots `Number of genes` vs. `Size (Mb)` using Seaborn or matplotlib
     - Save your plot as `genome_plot.png`
 
 ### 2. Open Reading Frames Finder with Biopython 
@@ -27,12 +27,12 @@ Using the provided file `test_dna_orf.txt`, identify all candidate proteins from
 
 - Write a Python script `find_orfs.py` that:
     - Reads a DNA sequence from `test_dna_orf.txt`
-    - Uses Bio.Seq and considers the 6 reading frames
+    - Uses Bio.Seq and considers the 6 possible reading frames
     - Determines and prints (in any order) all unique, translated amino acid sequences that: 
         - Begin with a start codon (M/Methionine)
         - End with a stop codon (e.g., * in Biopython translation)
         - Do not contain intermediate stop codons
-- Report how many ORFs you determined.
+- Report how many unique ORFs you determined.
 
 Hint: Consider using `.reverse_complement()` and `.translate(to_stop=False)` and filter translated results
 Bonus: Save all unique protein sequences to a FASTA file using `Bio.SeqIO`
