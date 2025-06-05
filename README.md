@@ -27,3 +27,11 @@
 [Eukaryotic Genome Question File](02-Bioinformatics_Fundamentals/eukaryotes.tsv)
 
 [Open Reading Frames Question File](02-Bioinformatics_Fundamentals/test_dna_orf.txt)
+
+### Session 3 - Biological Databases 
+[Slides](https://docs.google.com/presentation/d/123qm0xJtuCkuzw4AFte0iLULCRT9cJuhgoGs4EkSdEQ/edit?usp=sharing)
+
+[Homework](https://github.com/open-bootcamp-collective/bioinformatics-cohort-1/blob/main/03%3A%20Biological%20Databases%20and%20Programmatic%20Access/Homework%203.md)
+
+
+
