@@ -31,6 +31,10 @@
 ### Session 3 - Biological Databases 
 [Slides](https://docs.google.com/presentation/d/123qm0xJtuCkuzw4AFte0iLULCRT9cJuhgoGs4EkSdEQ/edit?usp=sharing)
 
+[Session Recording](https://fathom.video/share/kdUqr3zde_mrKng2_9p1bVAyHzWtFzz_)
+
+[Office Hours Recording](https://fathom.video/share/91NxMkBvwN-YhLhRJLj_9fNn16JzAgQp)
+
 [Homework](https://github.com/open-bootcamp-collective/bioinformatics-cohort-1/blob/main/03%3A%20Biological%20Databases%20and%20Programmatic%20Access/Homework%203.md)
 
 
