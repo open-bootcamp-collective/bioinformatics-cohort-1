@@ -37,5 +37,13 @@
 
 [Homework](https://github.com/open-bootcamp-collective/bioinformatics-cohort-1/blob/main/03%3A%20Biological%20Databases%20and%20Programmatic%20Access/Homework%203.md)
 
+### Session 4 - Sequence Alignment & Comparative Analysis
+[Slides](https://docs.google.com/presentation/d/1ZmZooezIbEai_DpW-_tlxrmwqbHWhMMNNwiCKn1vyHg/edit?usp=sharing)
+
+[Session Recording](https://fathom.video/share/9i5v7Lu5t1z5xKY2JMXjrsP194p6ZjbT)
+
+[Office Hours Recording](https://fathom.video/share/J8zEkjTWub5sn1qBrmGG4fnPSox9PM93)
+
+
 
 
