@@ -7,14 +7,23 @@ This assignment guides you through a bioinformatics workflow using NCBI database
 1) Navigate to the NCBI SRA Database and locate a DNA project of interest. Download a single FASTQ file for this assignment.
 2) Navigate to NCBI Refseq and locate a reference sequence appropriate for your dataset.  
 3) Using Galaxy Bioinformatics, 
+
         - Create an account and verify your email address. 
+
         - Upload the FASTQ file to Galaxy
+
         - Run FASTQC to assess sequence quality (available as an html).
+
             -   In what areas does your data pass quality checks?
+
             -   In what areas does it fail?
+
             -   What is the overall quality of the dataset?
+
         - Select a quality filtering and adapter removal algorithm and run it on raw FASTQ reads.
+
         - Align high-quality reads to the reference using whichever tool is most appropriate for your data.
+
         - <b>BONUS:</b> Try this bioinformatics workflow with command-line tools. 
 
 
