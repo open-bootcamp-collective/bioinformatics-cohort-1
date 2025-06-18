@@ -44,6 +44,8 @@
 
 [Office Hours Recording](https://fathom.video/share/J8zEkjTWub5sn1qBrmGG4fnPSox9PM93)
 
+[Homework](https://docs.google.com/document/d/1oYmNn5Z3sBOWjRXX4ea8mnuE2DCCelx0d0YWGFp80UI/edit?usp=sharing)
+
 
 
 
