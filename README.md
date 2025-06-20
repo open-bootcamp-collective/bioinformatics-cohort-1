@@ -49,18 +49,22 @@
 ### Session 5 - 6/17/25 - Intro to Next-Generation Sequencing & Data Processing (Hitesh, Lashanda, Vansika)
 [Slides](https://docs.google.com/presentation/d/1A57yr6ligirTPQFIiiUWbfPmYRUigMwZQqcqeRTJ2NM/edit?usp=sharing)
 
-Session Recording
+[Session Recording](https://fathom.video/share/UQUxajHvKArN25wbMzx_CyCzhnbHnQAu)
 
-Office Hour Recording
+[Office Hour Recording](https://fathom.video/share/m2ybEe-WM3oyiTQV_1AzbBzZSZjKNgoQ)
+
+[Bonus](https://fathom.video/share/BxynyVsjNHUpfnE7GmDjuyba4ffFqJnB)
 
 [Homework](https://github.com/open-bootcamp-collective/bioinformatics-cohort-1/blob/main/05-Next-Generation%20Sequencing%20%26%20Data%20Processing/Homework%205.md)
 
 ### Session 6 - 6/19/25 - Variant Calling & Annotation (Laza, Karl, Nadia)
 [Slides](https://docs.google.com/presentation/d/1HR33SLxs_BHpgm8qe3wJSvawpJqNcyp_8wGcXIdOpNs/edit?usp=sharing)
 
-Session Recording
+[Session Recording](https://fathom.video/share/6S4XBsfCsioAvWXdgNqC565syi6gfBcR)
 
-Office Hour Recording
+[Office Hour Recording](https://fathom.video/share/s14BfRBXa9eH3py48CHxYiMKSyt46i4w)
+
+[Bonus](https://fathom.video/share/sN-MB5JF2xu2JBNsB94tdj7iVJdYz89b)
 
 Homework
 
