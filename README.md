@@ -66,7 +66,7 @@
 
 [Bonus](https://fathom.video/share/sN-MB5JF2xu2JBNsB94tdj7iVJdYz89b)
 
-Homework
+[Homework](https://docs.google.com/document/d/1dmJyz9UcCnyr4Z-RynecnuiSnjPBEVHToE6OD68A4ro/edit?usp=sharing)
 
 
 
