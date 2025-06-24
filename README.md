@@ -68,6 +68,11 @@
 
 [Homework](https://docs.google.com/document/d/1dmJyz9UcCnyr4Z-RynecnuiSnjPBEVHToE6OD68A4ro/edit?usp=sharing)
 
+### Session 7 - 6/24/25 - Genome Visualization & Clinical Applications (Vansika, Nadia, Hitesh) 
+[Slides](https://docs.google.com/presentation/d/1Z5QBeCdbD7m1uQ406q5onQ98ojZ3b2C_NGGPb2xBCzM/edit?usp=sharing) 
 
+[Session Recording]
 
+[Office Hour Recording]
 
+[Homework]
