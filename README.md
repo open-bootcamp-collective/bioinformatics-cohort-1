@@ -75,4 +75,4 @@
 
 [Office Hour Recording]
 
-[Homework]
+[Homework](https://docs.google.com/document/d/1nebh7ptthz1GIk7gPY40TUBlyaIN075Z4qtBZkeC0Ts/edit?usp=sharing)
