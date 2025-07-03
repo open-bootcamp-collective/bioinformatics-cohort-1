@@ -76,3 +76,12 @@
 [Office Hour Recording]
 
 [Homework](https://docs.google.com/document/d/1nebh7ptthz1GIk7gPY40TUBlyaIN075Z4qtBZkeC0Ts/edit?usp=sharing)
+
+### Sessioni 8 - 7/1/25 - Bulk RNA-Seq Analysis and Functional Interpretation (LaShanda, Laza, Karl)
+[Slides](https://docs.google.com/presentation/d/19X6GPLgBm5Ty4rz2UCZSGmKOjc2KgLcoGpX-TpxvyAM/edit)
+
+[Session Recording]
+
+[Office Hour Recording]
+
+[Bonus]
