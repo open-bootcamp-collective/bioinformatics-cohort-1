@@ -85,3 +85,7 @@
 [Office Hour Recording]
 
 [Bonus]
+
+### Session 9- 7/17/25-  Advanced Single-Cell Analysis & Spatial Methods (Nadia, Selina, Vansika)
+[Slides](https://docs.google.com/presentation/d/1CfZbyaHdwEI1yJ46o3qW-pNNSUf8F2Uc67Ao_I0YY4U/edit?slide=id.p#slide=id.p)
+
