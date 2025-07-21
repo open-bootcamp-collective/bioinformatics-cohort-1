@@ -60,32 +60,54 @@
 ### Session 6 - 6/19/25 - Variant Calling & Annotation (Laza, Karl, Nadia)
 [Slides](https://docs.google.com/presentation/d/1HR33SLxs_BHpgm8qe3wJSvawpJqNcyp_8wGcXIdOpNs/edit?usp=sharing)
 
-[Session Recording](https://fathom.video/share/6S4XBsfCsioAvWXdgNqC565syi6gfBcR)
+[Recording #1](https://fathom.video/share/6S4XBsfCsioAvWXdgNqC565syi6gfBcR)
 
-[Office Hour Recording](https://fathom.video/share/s14BfRBXa9eH3py48CHxYiMKSyt46i4w)
+[Recording #2](https://fathom.video/share/s14BfRBXa9eH3py48CHxYiMKSyt46i4w)
 
-[Bonus](https://fathom.video/share/sN-MB5JF2xu2JBNsB94tdj7iVJdYz89b)
+[Recording #3](https://fathom.video/share/sN-MB5JF2xu2JBNsB94tdj7iVJdYz89b)
 
 [Homework](https://docs.google.com/document/d/1dmJyz9UcCnyr4Z-RynecnuiSnjPBEVHToE6OD68A4ro/edit?usp=sharing)
 
 ### Session 7 - 6/24/25 - Genome Visualization & Clinical Applications (Vansika, Nadia, Hitesh) 
 [Slides](https://docs.google.com/presentation/d/1Z5QBeCdbD7m1uQ406q5onQ98ojZ3b2C_NGGPb2xBCzM/edit?usp=sharing) 
 
-[Session Recording]
+[Part 1](https://fathom.video/share/uxjohgYvDfcRTQTjytuxipX1eTRYNUD7)
 
-[Office Hour Recording]
+[Part 2](https://fathom.video/share/THB_cKutmeFGyFq69jynSZfS-XFok7z7)
 
 [Homework](https://docs.google.com/document/d/1nebh7ptthz1GIk7gPY40TUBlyaIN075Z4qtBZkeC0Ts/edit?usp=sharing)
 
-### Sessioni 8 - 7/1/25 - Bulk RNA-Seq Analysis and Functional Interpretation (LaShanda, Laza, Karl)
+### Session 8 - 7/1/25 - Bulk RNA-Seq Analysis and Functional Interpretation (LaShanda, Laza, Karl)
+
 [Slides](https://docs.google.com/presentation/d/19X6GPLgBm5Ty4rz2UCZSGmKOjc2KgLcoGpX-TpxvyAM/edit)
 
-[Session Recording]
+[Part 1](https://fathom.video/share/T8uy41pfqPwqFbnpz3QzjHPgz6jjYKzf)
 
-[Office Hour Recording]
+[Part 2](https://fathom.video/share/zrqKiiyxzbGXH9CqUs7P5WejYshRQy3c)
 
-[Bonus]
+[Part 3](https://fathom.video/share/qsUFYS8k9rTiG3eSwMUyrrtcHmKJytXQ)
 
-### Session 9- 7/17/25-  Advanced Single-Cell Analysis & Spatial Methods (Nadia, Selina, Vansika)
+
+### Session 9 - 7/3/25 - Single-Cell RNA-Seq Technologies & Processing (Bulut, Selina, Karl)
+
+[Part 1](https://fathom.video/share/NGxaixuMoNSspjp2e9sfkE1sBFPw1g_V)
+
+[Part 2](https://fathom.video/share/bzAiWR_FTsm8KmJa2Cqo9Jsz5EdcaRzt)
+
+
+### Project 1 Presentations - 7/10/25
+
+[Part 1](https://fathom.video/share/Ajsd1zFHLi6_ggWX_Ctp97K8anLLzi8Q)
+
+[Part 2](https://fathom.video/share/cs68si7iUqQtCWzxTjxhW8AeHUA4bVf8)
+
+[Part 3](https://fathom.video/share/texy5mTjW68WfJmRtBqaCkyA-iNHzq-k)
+
+
+### Session 10 - 7/17/25 -  Advanced Single-Cell Analysis & Spatial Methods (Nadia, Selina, Vansika)
 [Slides](https://docs.google.com/presentation/d/1CfZbyaHdwEI1yJ46o3qW-pNNSUf8F2Uc67Ao_I0YY4U/edit?slide=id.p#slide=id.p)
+
+[Part 1](https://fathom.video/share/Gs9Zq7iW5gGbn8c8v7y_xygZe3eNknJn)
+
+[Part 2](https://fathom.video/share/mboeYV4QTv9Zz_yS9jydPkFjJzWBenBV)
 
