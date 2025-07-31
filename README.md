@@ -111,3 +111,6 @@
 
 [Part 2](https://fathom.video/share/mboeYV4QTv9Zz_yS9jydPkFjJzWBenBV)
 
+### Session 12 - 7/31/25 - Machine Learning, Part 1 (LaShanda, Laza, Selina)
+[Slides](https://docs.google.com/presentation/d/1mkbR1QmeNfBjerTA3R9kEAR0emQ6t1QKAldx26OcMQA/edit?usp=sharing)
+
